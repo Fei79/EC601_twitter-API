@@ -6,4 +6,4 @@ This program aims to exercise different twitter APIs. The first function is goin
 
 Result
 
-The result was showen in picture format.
+The result was shown in picture format.

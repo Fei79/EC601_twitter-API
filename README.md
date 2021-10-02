@@ -14,4 +14,5 @@ The result was shown in picture format.
 This program aims to understand Google API and focus on analyze sentiment. And the code is going to analyze a sentence or paragraph. Then provide its sentiment score, attitude, and whether this sentence or paragraph is positive, negative, or neutral.
 
 ### Result
-The result was shown in picture format.
+![image](https://github.com/Fei79/EC601_twitter-API/blob/main/Google%20NLP%20result.png)
+

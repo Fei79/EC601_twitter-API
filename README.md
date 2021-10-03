@@ -1,4 +1,4 @@
-# EC601_twitter-API and Google NLP
+# EC601_Project 2
 
 ## Twitter API
 
@@ -17,3 +17,7 @@ This program aims to understand Google API and focus on analyze sentiment. And t
 ### Result
 ![image](https://github.com/Fei79/EC601_twitter-API/blob/main/Google%20NLP%20result.png)
 
+## User story
+When I wanted to watch a movie or show on YouTube, I was worried that the film and television work did not meet my preferences. For users like me, they can use Twitter API to summarize the discussion about this movie or show and then use Google NLP to analyze other's sentiment towards it. In this way, it can be determined whether this movie or show is worth watching. 
+
+MVP: Collected tweets on Twitter API.
